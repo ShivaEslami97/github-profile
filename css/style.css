@@ -15,6 +15,7 @@
   position: relative;
   display: flex;
   gap: 1rem;
+  flex-wrap: wrap;
 }
 .search__card {
   flex-direction: column;
@@ -66,6 +67,7 @@
 }
 .profile__card {
   gap: 2rem;
+  flex-wrap: wrap;
 }
 .profile__img {
   display: flex;
@@ -103,6 +105,7 @@
   display: flex;
   gap: 2rem;
   margin-top: 0.7rem;
+  flex-wrap: wrap;
 }
 .profile__details h2 {
   font-size: 2rem;

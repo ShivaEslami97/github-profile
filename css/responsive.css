@@ -1,0 +1,5 @@
+@media (max-width: 472px) {
+  .profile__details {
+    width: 100%;
+  }
+}
